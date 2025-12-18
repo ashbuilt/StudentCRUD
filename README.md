@@ -12,14 +12,11 @@ A Java + MySQL console-based application developed using JDBC to perform CRUD op
 
 ## Screenshots
 
-### Main Menu
-![Main Menu](screenshots/menu.png)
+### Console Output (Application Running)
+![Console Output](screenshots/console-output.png)
 
-### Add Student
-![Add Student](screenshots/add-student.png)
-
-### View Students
-![View Students](screenshots/view-students.png)
+### Database View (MySQL Workbench)
+![Database Output](screenshots/database-output.png)
 
 ## Technologies Used
 - Java
