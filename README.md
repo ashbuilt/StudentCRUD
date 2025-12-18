@@ -10,6 +10,17 @@ A Java + MySQL console-based application developed using JDBC to perform CRUD op
 - Delete student records
 - Menu-driven console interface
 
+## Screenshots
+
+### Main Menu
+![Main Menu](screenshots/menu.png)
+
+### Add Student
+![Add Student](screenshots/add-student.png)
+
+### View Students
+![View Students](screenshots/view-students.png)
+
 ## Technologies Used
 - Java
 - MySQL
